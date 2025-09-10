@@ -30,4 +30,53 @@ A Python-based web application built with **Streamlit** that allows users to gen
 
 ```bash
 git clone https://github.com/your-username/FakePrescriptionGenerator.git
-cd FakePrescriptionGenerator
+cd FakePrescriptionGenerator 
+
+2. Create a virtual environment (optional but recommended)
+
+   -python -m venv venv
+   -source venv/bin/activate   # For Linux/Mac
+   -venv\Scripts\activate      # For Windows
+
+
+3. Install dependencies
+
+   -pip install -r requirements.txt
+
+
+4. Run the app
+
+   -streamlit run app.py
+
+🖼️ Screenshots
+
+Add some screenshots of your app interface and generated PDF here.
+
+📁 Project Structure
+FakePrescriptionGenerator/
+├── app.py               # Main Streamlit app
+├── requirements.txt     # Python dependencies
+├── README.md
+├── assets/              # Folder for logos, signatures, etc.
+└── modules/             # Optional: separate Python modules
+
+💡 Usage
+
+1.open the app in your browser.
+
+2.Fill in doctor and patient details.
+
+3.Upload logo and signature if needed.
+
+4.Add medicines and instructions.
+
+5.Click Generate PDF to download the prescription.
+
+⚖️ Disclaimer
+
+This project is for educational purposes only. Do not use it for creating real prescriptions.
+
+📄 License
+
+This project is licensed under the MIT License - see the LICENSE
+ file for details.

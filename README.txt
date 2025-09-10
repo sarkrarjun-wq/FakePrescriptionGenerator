@@ -52,6 +52,8 @@ cd FakePrescriptionGenerator
 
 https://github.com/sarkrarjun-wq/FakePrescriptionGenerator/blob/f9afd778bb99f3d79b0e81b54e162644baafd9db/Screenshot%202025-09-10%20180348.png
 
+https://github.com/sarkrarjun-wq/FakePrescriptionGenerator/blob/73ccc2f324125b10a19611635828d2ca471c2a5d/Screenshot%202025-09-10%20180359.png
+
 
 📁 Project Structure
 FakePrescriptionGenerator/

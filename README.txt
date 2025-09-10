@@ -50,7 +50,8 @@ cd FakePrescriptionGenerator
 
 🖼️ Screenshots
 
-Add some screenshots of your app interface and generated PDF here.
+![image alt](https://github.com/sarkrarjun-wq/FakePrescriptionGenerator/blob/f9afd778bb99f3d79b0e81b54e162644baafd9db/Screenshot%202025-09-10%20180348.png)
+![image alt]()
 
 📁 Project Structure
 FakePrescriptionGenerator/
